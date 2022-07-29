@@ -1,12 +1,20 @@
 # Open Liberty quilted rug mug pattern
 
+TODO:
+- Re-create photo of drawing seam allowances (re-print the numbered version of the template)
+- Re-create exploded photo using numbered version of template(?)
+
+
+
 This pattern uses Foundation Paper Piecing (FPP) which is a method of patchwork piecing that requires a sewing machine.
 
 ![This is an image](images/finished-rugmug.jpg)
 
+Finished size of the rug mug when bound is approximately 11.25" x 8" (28.5cm x 20cm) (slightly smaller than A4).
+
 If you're confident using a sewing machine and you've done some basic patchwork and quilting but you've never done any FPP before, I would suggest doing an FPP tutorial then practising with a simple picture-type of pattern first. I've included some links to tutorials that I used to learn FPP at the end.
 
-Finished size of the rug mug when bound is approximately 11.25" x 8" (28.5cm x 20cm) (slightly smaller than A4).
+
 
 ## Materials and tools
 
@@ -28,17 +36,14 @@ Finished size of the rug mug when bound is approximately 11.25" x 8" (28.5cm x 2
 ### Tools
 
 - Printer (to print out three copies of the paper template)
-- Ruler and pencil (to add 1/4" seam allowances to paper template pieces before cutting them out)
+- Transparent quilting ruler (in inches) and pencil (to add 1/4" seam allowances to paper template pieces before cutting them out)
 - Paper scissors (to cut out the paper template pieces)
-- Sewing machine (set to 1.8mm stitch length as 1.5mm just destroyed the paper template too quickly)
-- Fabric scissors
+- Sewing machine (set to 1.8mm stitch length; using 1.5mm just destroyed the paper template too easily if I made a mistake and had to unpick a seam)
+- Sewing machine walking foot (for quilting)
+- Fabric scissors or rotary cutter with a fresh blade (for trimming the seam allowances; some of the seams in section A and B in particular end up with several layers of fabric so a sharp blade is essential)
 - Embroidery needle
+- Quilting pins and binding clips
 
-
-Optional, but useful:
-
-- Add-a-quarter ruler or transparent quilting ruler in inches (makes it easier to add the 1/4" seam allowances to the template sections on the paper, and also very useful when cutting the seam allowance after sewing each piece of fabric)
-- Rotary cutter with a fresh blade (for trimming the seam allowances; some of the seams in section A and B in particular end up with several layers of fabric so a sharp blade is essential)
 
 
 ## Preparing the paper templates
@@ -58,20 +63,19 @@ Optional, but useful:
 The following image shows the five template sections cut out with their 1/4" seam allowances shaded red for clarity:
 ![This is an image](images/exploded-template-seamallowances.jpg)
 
+Note that in some of the photos that i took of my own sewing, the template is not exactly the same as the one here. That's because I revised the order of sections and labelling in the final template. But the pattern is the same.
 
 ## Making the quilt
+
+I'm going to assume that you know how to do FPP piecing so I'll just give instructions specific to this pattern, including tips I found useful when I was making it myself.
+
+
 
 
 ### 1. Piecing the sections
 
+Piece each section
 
-![This is an image](images/piecing-section-A.jpg)
-
-![This is an image](images/piecing-section-A-template.jpg)
-
-
-
-### 2. Assembling the sections
 
 Join A to B and A to C, then A-C to D, then A-D to E.
 
@@ -86,9 +90,11 @@ Trim the edges of completed sections only when ready to sew that seam. Wait unti
 ### 3. Embroider the details
 
 
-![This is an image](images/piecing-section-A-template.jpg)
+![This is an image](images/embroidering.jpg)
 
 ### 4. Quilt and trim
+
+Remove the paper template.
 
 
 ![This is an image](images/quilting-walkingfoot.jpg)
