@@ -2,13 +2,15 @@
 
 This pattern uses Foundation Paper Piecing (FPP) which is a method of patchwork piecing that uses a paper template and requires a sewing machine.
 
-![Finished rug mug mini quilt.](images/finished-rugmug.jpg)
+The finished size of the rug mug mini quilt when bound is approximately 11.25" x 8" (28.5cm x 20cm) (slightly smaller than A4):
 
-Finished size of the rug mug when bound is approximately 11.25" x 8" (28.5cm x 20cm) (slightly smaller than A4).
+![Finished rug mug mini quilt.](images/finished-rugmug.jpg)
 
 If you're confident using a sewing machine and you've done some basic patchwork and quilting but you've never done any FPP before, I would suggest doing an FPP tutorial then practising with a simple picture-type of pattern first. I've included some links to [tutorials that I used to learn FPP](https://github.com/lauracowen/openliberty-rugmug#tutorials).
 
 Note that in some of the photos of the template in these instructions and the photos I took of my own sewing, the template pieces shown look slightly different from the template provided with these instructions. That's because I revised the labelling and the order of sections in the final template. But the pattern is the same.
+
+The template and instructions for this patter are by Laura Cowen but the Open Liberty logo, the design on which it is based, is [owned and licensed by IBM](https://github.com/OpenLiberty/logos/blob/main/LICENSE.adoc).
 
 ## Materials
 
