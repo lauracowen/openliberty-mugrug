@@ -10,7 +10,7 @@ If you're confident using a sewing machine and you've done some basic patchwork 
 
 Note that in some of the photos of the template in these instructions and the photos I took of my own sewing, the template pieces shown look slightly different from the template provided with these instructions. That's because I revised the labelling and the order of sections in the final template. But the pattern is the same.
 
-The template and instructions for this patter are by Laura Cowen but the Open Liberty logo, the design on which it is based, is [owned and licensed by IBM](https://github.com/OpenLiberty/logos/blob/main/LICENSE.adoc).
+The template and instructions for this pattern are by Laura Cowen but the Open Liberty logo, the design on which it is based, is [owned and licensed by IBM](https://github.com/OpenLiberty/logos/blob/main/LICENSE.adoc).
 
 ## Materials
 
@@ -32,8 +32,7 @@ Quilting cotton fabrics:
 - Printer (to print out the paper template; I've only tested on A4 paper but letter should be fine)
 - Transparent quilting ruler (in inches) and pencil (to add 1/4" seam allowances to paper template pieces)
 - Paper scissors (to cut out the paper template pieces)
-- Sewing machine (set to 1.8mm stitch length for piecing; 3.5mm for quilting)
-- Sewing machine walking foot (for quilting)
+- Sewing machine (set to 1.8mm stitch length for piecing; 3.5mm for quilting), ideally with a walking foot for quilting
 - Fabric scissors or rotary cutter with a fresh blade (for trimming the seam allowances; some of the seams in section A and B in particular end up with several layers of fabric so a sharp blade is essential)
 - Embroidery needle
 - Quilting pins and binding clips
@@ -65,17 +64,28 @@ Note that the outside edge probably isn't exactly a 1/4" allowance when printed 
 I'm going to assume that you know how to do FPP piecing so I'll just give instructions specific to this pattern, including tips I found useful when I was making it myself.
 
 
-### 1. Piecing the sections
+### 1. Piece the sections
 
 Piece each section, following the numbers in the pattern, according to the FPP method. Remember to set your machine sitch length to shorter than normal so that you can tear the paper template off later.
 
-**Tip:**
-I used 1.8mm after finding that 1.5mm ripped the template too easily if I need to unpick and re-sew a seam.
+> **Tip:**
+I used 1.8mm stitch length after finding that 1.5mm ripped the template too easily if I need to unpick and re-sew a seam.
+
+Piecing Section C (front):
+![Piecing Section C (front).](images/pieced-front.jpg)
+
+Piecing Section C (back):
+![Piecing Section C (back).](images/pieced-back.jpg)
+
+>**Tip:**
+Don't trim the completed sections yet.
+
+### 2. Join the sections
 
 Join the sections: A to B and A to C, then A-C to D, then A-D to E.
 
-**Tip:**
-Wait until you're ready to sew a section seam before you trim the edges of completed sections. Wait until you've assembled all five sections before you trim the outside edge.
+>**Tip:**
+Wait until you're ready to sew a section seam before you trim the edges of that seam. Wait until you've assembled all five sections before you trim the outside edge of any section.
 
 The pieced quilt top (front):
 ![Pieced quilt top (front).](images/assembled.jpg)
@@ -92,11 +102,11 @@ Working from the back (so you can see the template), embroider the reflection on
 
 ![This is an image](images/embroidering.jpg)
 
-### 4. Quilt and trim
+### 4. Quilt
 
 Remove the paper template. This can be a bit slow with so many seams.
 
-**Tip:**
+>**Tip:**
 I (very carefully!) used a seam ripper in places to tease the tiniest paper pieces out.
 
 Make your quilt sandwich (quilt top, then wadding, then backing) and pin.
@@ -105,7 +115,7 @@ Quilt as desired. Remember to set your machine sitch length to longer than norma
 
 ![Machine quilting the quilt sandwich using a walking foot.](images/quilting-walkingfoot.jpg)
 
-**Tip:**
+>**Tip:**
 You can quilt in any way you like but here's what I did (making it up as I went along):
 
 * Used navy polyester thread 
@@ -124,7 +134,7 @@ The finished quilting (back):
 ![Finished quilting (back).](images/quilting-back.jpg)
 
 
-### 5. Bind
+### 5. Trim and bind
 
 Trim and bind the quilt using the navy binding strip:
 
