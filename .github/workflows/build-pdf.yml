@@ -1,18 +1,17 @@
 name: learn-github-actions
-on:
-    push
-    jobs:
-        converttopdf:
-            name: Build PDF
-            runs-on: ubuntu-latest
-            steps:
-            - uses: actions/checkout@v3
-            - uses: BaileyJM02/markdown-to-pdf@v1
-                with:
-                input_dir: README.md
-                output_dir: pdfs
-                images_dir: images
-            - uses: actions/upload-artifact@v3
-                with:
-                name: pattern
-                path: pdfs
+on: [push]
+jobs:
+    converttopdf:
+        name: Build PDF
+        runs-on: ubuntu-latest
+        steps:
+        - uses: actions/checkout@v3
+        - uses: BaileyJM02/markdown-to-pdf@v1
+            with:
+            input_dir: README.md
+            output_dir: pdfs
+            images_dir: images
+        - uses: actions/upload-artifact@v3
+            with:
+            name: pattern
+            path: pdfs
