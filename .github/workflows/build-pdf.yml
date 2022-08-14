@@ -9,7 +9,7 @@ jobs:
             - uses: BaileyJM02/markdown-to-pdf@v1
               with:
                   input_path: README.md
-                  output_dir: pdfs
+                  output_dir: pdfs/
                   images_dir: images
                   build_html: false
             - name: List all files
