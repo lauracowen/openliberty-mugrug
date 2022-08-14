@@ -157,3 +157,10 @@ In case they're useful, here are some tutorials I used when finishing the rug mu
 * [Quilting a quilt](https://www.sewmotion.com/the_quilting.html)
 * [Binding a quilt](https://www.sewmotion.com/the_binding.html)
 * [Joining binding ends](https://www.sewmotion.com/joining_binding_ends.html)
+
+
+## Licence
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Liberty rug mug mini quilt pattern</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.lauracowen.co.uk/" property="cc:attributionName" rel="cc:attributionURL">Laura Cowen</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/lauracowen/openliberty-rugmug" rel="dct:source">https://github.com/lauracowen/openliberty-rugmug</a>.
+
+The Open Liberty logo, the design on which this rug mug mini quilt is based, is used under the [terms set out by IBM](https://github.com/OpenLiberty/logos/blob/main/LICENSE.adoc).
