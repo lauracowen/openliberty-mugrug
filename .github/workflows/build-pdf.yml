@@ -1,5 +1,12 @@
 name: learn-github-actions
-on: [push]
+on:
+    push:
+        branches:
+          - main
+        paths:
+          - 'README.md'
+          - 'images/**'
+          - 'pattern-templates/open-liberty-logo-mugrug-fpp-template.pdf'
 jobs:
     converttopdf:
         name: Build PDF
@@ -10,7 +17,7 @@ jobs:
               with:
                   input_path: README.md
                   output_dir: pdfs/
-                  images_dir: images
+                  images_dir: images/
                   build_html: false
             - name: List all files
               run: ls -lR
