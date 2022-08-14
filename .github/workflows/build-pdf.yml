@@ -11,7 +11,8 @@ jobs:
                   input_path: README.md
                   output_dir: pdfs
                   images_dir: images
-            - uses: actions/upload-artifact@v3
-              with:
-                  name: pattern
-                  path: pdfs
+                  build_html: false
+#            - uses: actions/upload-artifact@v3
+#              with:
+#                  name: pattern
+#                  path: pdfs
