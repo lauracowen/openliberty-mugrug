@@ -1,4 +1,4 @@
-name: learn-github-actions
+name: Built PDF of pattern and instructions
 on:
     push:
         branches:
