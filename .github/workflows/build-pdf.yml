@@ -20,8 +20,8 @@ jobs:
               with:
                   input_path: README.md
                   output_dir: pdfs/
-                  images_dir: images
-                  build_html: false
+                  images_dir: '.'
+                  build_html: true
             - name: List all files
               run: ls -lR
               # Check that the file has been built.
