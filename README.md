@@ -4,7 +4,7 @@ This pattern uses Foundation Paper Piecing (FPP) which is a method of patchwork 
 
 The finished size of the rug mug mini quilt when bound is approximately 11.25" x 8" (28.5cm x 20cm) (slightly smaller than A4):
 
-![Finished rug mug mini quilt.](/images/finished-rugmug.jpg)
+![Finished rug mug mini quilt.](images/finished-rugmug.jpg)
 
 If you're confident using a sewing machine and you've done some basic patchwork and quilting but you've never done any FPP before, I would suggest doing an FPP tutorial then practising with a simple picture-type of pattern first. I've included some links to [tutorials that I used to learn FPP](https://github.com/lauracowen/openliberty-rugmug#tutorials).
 
@@ -41,20 +41,20 @@ Quilting cotton fabrics:
 
 ## Preparing the paper templates
 
-![Open Liberty logo mug rug FPP template](/images/open-liberty-logo-mugrug-fpp-template.png)
+![Open Liberty logo mug rug FPP template](images/open-liberty-logo-mugrug-fpp-template.png)
 
-1. Print out three copies of [the template](/pattern-templates/open-liberty-logo-mugrug-fpp-template.pdf).
+1. Print out three copies of [the template](pattern-templates/open-liberty-logo-mugrug-fpp-template.pdf).
 2. Add add 1/4" seam allowances around each section:
    - Copy 1: Section E and Section D
    - Copy 2: Section A and Section C
    - Copy 3: Section B
   
      For example, in the following image, I'm adding a 1/4" seam allowance on to each of Sections D and E using a quilting ruler and pencil (Sections A, B, and C of this copy will be discarded):
-  ![Adding 1/4" seam allowances on Sections D and E using a quilting ruler](/images/add-seam-allowances.jpg)
+  ![Adding 1/4" seam allowances on Sections D and E using a quilting ruler](images/add-seam-allowances.jpg)
 3. Cut out the five sections from their respective copies of the template.
 
 The following image shows the five template sections cut out with their 1/4" seam allowances shaded red for clarity:
-![Template pieces with seam allowances shaded red](/images/exploded-template-seamallowances.jpg)
+![Template pieces with seam allowances shaded red](images/exploded-template-seamallowances.jpg)
 
 Note that the outside edge probably isn't exactly a 1/4" allowance when printed out (especially if you're not using A4 paper) so use a ruler to measure the allowance for yourself when trimming the outside edge of the block before binding.
 
@@ -72,10 +72,10 @@ Piece each section, following the numbers in the pattern, according to the FPP m
 I used 1.8mm stitch length after finding that 1.5mm ripped the template too easily if I need to unpick and re-sew a seam.
 
 Piecing Section C (front):
-![Piecing Section C (front).](/images/pieced-front.jpg)
+![Piecing Section C (front).](images/pieced-front.jpg)
 
 Piecing Section C (back):
-![Piecing Section C (back).](/images/pieced-back.jpg)
+![Piecing Section C (back).](images/pieced-back.jpg)
 
 >**Tip:**
 Don't trim the completed sections yet.
@@ -88,10 +88,10 @@ Join the sections: A to B and A to C, then A-C to D, then A-D to E.
 Wait until you're ready to sew a section seam before you trim the edges of that seam. Wait until you've assembled all five sections before you trim the outside edge of any section.
 
 The pieced quilt top (front):
-![Pieced quilt top (front).](/images/assembled.jpg)
+![Pieced quilt top (front).](images/assembled.jpg)
 
 The pieced quilt top (back):
-![Pieced quilt top (back).](/images/assembled-template.jpg)
+![Pieced quilt top (back).](images/assembled-template.jpg)
 
 
 ### 3. Embroider the details
@@ -100,7 +100,7 @@ Use the embroidery floss split into 3-strand lengths.
 
 Working from the back (so you can see the template), embroider the reflection on the white dome (green floss) and the whooshes under the spaceship on the navy background (white floss):
 
-![This is an image](/images/embroidering.jpg)
+![This is an image](images/embroidering.jpg)
 
 ### 4. Quilt
 
@@ -113,7 +113,7 @@ Make your quilt sandwich (quilt top, then wadding, then backing) and pin.
 
 Quilt as desired. Remember to set your machine sitch length to longer than normal (eg 3.5mm).
 
-![Machine quilting the quilt sandwich using a walking foot.](/images/quilting-walkingfoot.jpg)
+![Machine quilting the quilt sandwich using a walking foot.](images/quilting-walkingfoot.jpg)
 
 >**Tip:**
 You can quilt in any way you like but here's what I did (making it up as I went along):
@@ -127,20 +127,20 @@ I like the final effect as I think it emphasises the angle and whooshing of the 
 
 The finished quilting (front):
 
-![Finished quilting (front).](/images/quilt-sandwich.jpg)
+![Finished quilting (front).](images/quilt-sandwich.jpg)
 
 The finished quilting (back):
 
-![Finished quilting (back).](/images/quilting-back.jpg)
+![Finished quilting (back).](images/quilting-back.jpg)
 
 
 ### 5. Trim and bind
 
 Trim and bind the quilt using the navy binding strip:
 
-![Binding strip.](/images/binding_strip.jpg)
+![Binding strip.](images/binding_strip.jpg)
 
-![Binding clipped in place.](/images/binding-clips.jpg)
+![Binding clipped in place.](images/binding-clips.jpg)
 
 
 And you're done! Time to get a cup of tea and biscuit to celebrate.
