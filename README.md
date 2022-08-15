@@ -71,11 +71,9 @@ Piece each section, following the numbers in the pattern, according to the FPP m
 > **Tip:**
 I used 1.8mm stitch length after finding that 1.5mm ripped the template too easily if I need to unpick and re-sew a seam.
 
-Piecing Section C (front):
-![Piecing Section C (front).](images/pieced-front.jpg)
+Pieced Section C:
+![Piecing Section C.](images/pieced-section.jpg)
 
-Piecing Section C (back):
-![Piecing Section C (back).](images/pieced-back.jpg)
 
 >**Tip:**
 Don't trim the completed sections yet.
@@ -87,11 +85,8 @@ Join the sections: A to B and A to C, then A-C to D, then A-D to E.
 >**Tip:**
 Wait until you're ready to sew a section seam before you trim the edges of that seam. Wait until you've assembled all five sections before you trim the outside edge of any section.
 
-The pieced quilt top (front):
-![Pieced quilt top (front).](images/assembled.jpg)
-
-The pieced quilt top (back):
-![Pieced quilt top (back).](images/assembled-template.jpg)
+The pieced quilt top:
+![Pieced quilt top.](images/assembled.jpg)
 
 
 ### 3. Embroider the details
@@ -101,6 +96,8 @@ Use the embroidery floss split into 3-strand lengths.
 Working from the back (so you can see the template), embroider the reflection on the white dome (green floss) and the whooshes under the spaceship on the navy background (white floss):
 
 ![This is an image](images/embroidering.jpg)
+
+(Yes, I forgot to embroider one of the white whooshes...)
 
 ### 4. Quilt
 
@@ -113,35 +110,22 @@ Make your quilt sandwich (quilt top, then wadding, then backing) and pin.
 
 Quilt as desired. Remember to set your machine sitch length to longer than normal (eg 3.5mm).
 
-![Machine quilting the quilt sandwich using a walking foot.](images/quilting-walkingfoot.jpg)
-
 >**Tip:**
 You can quilt in any way you like but here's what I did (making it up as I went along):
 
-* Used navy polyester thread 
-* Sewed round the outline of the spaceship.
-* Sewed along all the piecing lines of the navy pieces (not the section lines), extending the piecing lines to the edge of the quilt where necessary.
-* Drew some sloping lines from the bottom edge of the quilt following the angle of the spaceship, then quilted along the lines to give the picture more whoosh!
+>* Used navy polyester thread 
+>* Sewed round the outline of the spaceship.
+>* Sewed along all the piecing lines of the navy pieces (not the section lines), extending the piecing lines to the edge of the quilt where necessary.
+>* Drew some sloping lines from the bottom edge of the quilt following the angle of the spaceship, then quilted along the lines to give the picture more whoosh!
 
-I like the final effect as I think it emphasises the angle and whooshing of the spaceship.
+>I like the final effect as I think it emphasises the angle and whooshing of the spaceship:
 
-The finished quilting (front):
-
-![Finished quilting (front).](images/quilt-sandwich.jpg)
-
-The finished quilting (back):
-
-![Finished quilting (back).](images/quilting-back.jpg)
+>![Finished quilting (front).](images/quilt-sandwich.jpg)
 
 
 ### 5. Trim and bind
 
-Trim and bind the quilt using the navy binding strip:
-
-![Binding strip.](images/binding_strip.jpg)
-
-![Binding clipped in place.](images/binding-clips.jpg)
-
+Trim and bind the quilt using the navy binding strip.
 
 And you're done! Time to get a cup of tea and biscuit to celebrate.
 
