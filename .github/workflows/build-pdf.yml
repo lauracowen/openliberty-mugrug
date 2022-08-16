@@ -19,7 +19,7 @@ jobs:
             - uses: BaileyJM02/markdown-to-pdf@v1
               with:
                   input_path: README.md
-                  output_dir: pdfs
+                  output_dir: pdfs/
                   images_dir: images
                   image_import: images
                   # Needs this line to know where images are for some reason.
