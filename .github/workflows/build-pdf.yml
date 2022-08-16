@@ -22,7 +22,30 @@ jobs:
                   output_dir: pdfs/
                   images_dir: images
                   image_import: images
-                  build_html: true
+                  # Needs this line to know where images are for some reason.
+                  build_html: false
+            - uses: actions/upload-artifact@v3
+              with:
+                  name: pattern
+                  path: pdfs
+    build:
+        name: CombinePDFS
+        runs-on: ubuntu-latest
+        needs: converttopdf
+        env:
+          path: pdfs //CHANGE THIS
+          filename: Open-Liberty-rug-mug-mini-quilt //CHANGE THIS
+        steps:
+            - uses: actions/checkout@v2
+            - uses: elMuso/MergePDFs-action@1.1
+              with:
+                path: ${{env.path}}
+                filename: ${{env.filename}}
+            - name: Upload combined pdf
+              uses: actions/upload-artifact@v2
+              with:
+                name: ${{env.filename}}
+                path: ${{env.path}}/${{env.filename}}.pdf          
             - name: List all files
               run: ls -lR
               # Check that the file has been built.
@@ -33,7 +56,3 @@ jobs:
                 git add pdfs/README.pdf
                 git commit -m "generated PDF"
                 git push
-#            - uses: actions/upload-artifact@v3
-#              with:
-#                  name: pattern
-#                  path: pdfs

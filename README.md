@@ -4,7 +4,7 @@ This pattern uses Foundation Paper Piecing (FPP) which is a method of patchwork 
 
 The finished size of the rug mug mini quilt when bound is approximately 11.25" x 8" (28.5cm x 20cm) (slightly smaller than A4):
 
-![Finished rug mug mini quilt.](images/finished-rugmug.jpg)
+![Finished rug mug mini quilt.](images/finished-rugmug-small.jpg)
 
 If you're confident using a sewing machine and you've done some basic patchwork and quilting but you've never done any FPP before, I would suggest doing an FPP tutorial then practising with a simple picture-type of pattern first. I've included some links to [tutorials that I used to learn FPP](https://github.com/lauracowen/openliberty-rugmug#tutorials).
 
