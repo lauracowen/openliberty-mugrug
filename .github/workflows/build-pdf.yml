@@ -34,7 +34,7 @@ jobs:
         needs: converttopdf
         env:
           path: pdfs
-          filename: Open-Liberty-rug-mug-mini-quilt
+          filename: ../Open-Liberty-rug-mug-mini-quilt
         steps:
             - uses: actions/checkout@v2
             - uses: elMuso/MergePDFs-action@1.1
