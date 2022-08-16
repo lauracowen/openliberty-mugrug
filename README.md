@@ -29,7 +29,7 @@ Quilting cotton fabrics:
 
 ## Tools
 
-- Printer (to print out the paper template; I've only tested on A4 paper but letter should be fine)
+- Printer (to print out the [paper template](https://github.com/lauracowen/openliberty-rugmug/blob/main/pdfs/open-liberty-logo-mugrug-fpp-template.pdf); I've only tested on A4 paper but letter should be fine)
 - Transparent quilting ruler (in inches) and pencil (to add 1/4" seam allowances to paper template pieces)
 - Paper scissors (to cut out the paper template pieces)
 - Sewing machine (set to 1.8mm stitch length for piecing; 3.5mm for quilting), ideally with a walking foot for quilting
@@ -41,9 +41,11 @@ Quilting cotton fabrics:
 
 ## Preparing the paper templates
 
+The [FPP template](https://github.com/lauracowen/openliberty-rugmug/blob/main/pdfs/open-liberty-logo-mugrug-fpp-template.pdf) looks like this:
+
 ![Open Liberty logo mug rug FPP template](images/open-liberty-logo-mugrug-fpp-template.png)
 
-1. Print out three copies of [the template](pattern-templates/open-liberty-logo-mugrug-fpp-template.pdf).
+1. Print out three copies of [the template](https://github.com/lauracowen/openliberty-rugmug/blob/main/pdfs/open-liberty-logo-mugrug-fpp-template.pdf).
 2. Add add 1/4" seam allowances around each section:
    - Copy 1: Section E and Section D
    - Copy 2: Section A and Section C
