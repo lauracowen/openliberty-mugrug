@@ -6,7 +6,7 @@ on:
         paths:
           - 'README.md'
           - 'images/**'
-          - 'pattern-templates/open-liberty-logo-mugrug-fpp-template.pdf'
+          - 'pdfs/open-liberty-logo-mugrug-fpp-template.pdf'
           # Limit triggering to commits pushed to these files only.
     workflow_dispatch:
     # Allow manual triggering.
@@ -21,27 +21,20 @@ jobs:
             - uses: BaileyJM02/markdown-to-pdf@v1
               with:
                   input_path: README.md
-                  output_dir: temp/
+                  output_dir: pdfs
                   images_dir: images
                   image_import: images
                   # Needs this line to know where images are for some reason.
                   build_html: false
-            - name: Move to temp dir and order the pdfs for merging
-              run: |
-                  mv temp/README.pdf temp/001.pdf
-                  mv pdfs/open-liberty-logo-mugrug-fpp-template.pdf temp/002.pdf
-            - uses: elMuso/MergePDFs-action@1.1
-              with:
-                path: temp
-                filename: README-combined
+            - name: Renamed converted PDF
+              run: mv pdfs/README.pdf pdfs/Open-Liberty-rug-mug-mini-quilt.pdf
             - name: List all files
               run: ls -lR
               # Check that the file has been built.
             - name: Commit built PDF to my repo
               run: |
-                mv temp/README-combined.pdf ./Open-Liberty-rug-mug-mini-quilt.pdf
                 git config user.name github-actions
                 git config user.email github-actions@github.com
-                git add Open-Liberty-rug-mug-mini-quilt.pdf
+                git add pdfs/Open-Liberty-rug-mug-mini-quilt.pdf
                 git commit -m "generated PDF"
                 git push
