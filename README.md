@@ -29,7 +29,7 @@ Quilting cotton fabrics:
 
 ## Tools
 
-- Printer (to print out the [paper template](https://github.com/lauracowen/openliberty-rugmug/blob/main/pdfs/open-liberty-logo-mugrug-fpp-template.pdf); I've only tested on A4 paper but letter should be fine)
+- Printer (to print out the [paper template](https://github.com/lauracowen/openliberty-mugrug/blob/main/pdfs/open-liberty-logo-mugrug-fpp-template.pdf); I've only tested on A4 paper but letter should be fine)
 - Transparent quilting ruler (in inches) and pencil (to add 1/4" seam allowances to paper template pieces)
 - Paper scissors (to cut out the paper template pieces)
 - Sewing machine (set to 1.8mm stitch length for piecing; 3.5mm for quilting), ideally with a walking foot for quilting
@@ -41,11 +41,11 @@ Quilting cotton fabrics:
 
 ## Preparing the paper templates
 
-The [FPP template](https://github.com/lauracowen/openliberty-rugmug/blob/main/pdfs/open-liberty-logo-mugrug-fpp-template.pdf) looks like this:
+The [FPP template](https://github.com/lauracowen/openliberty-mugrug/blob/main/pdfs/open-liberty-logo-mugrug-fpp-template.pdf) looks like this:
 
 ![Open Liberty logo mug rug FPP template](images/open-liberty-logo-mugrug-fpp-template.png)
 
-1. Print out three copies of [the template](https://github.com/lauracowen/openliberty-rugmug/blob/main/pdfs/open-liberty-logo-mugrug-fpp-template.pdf).
+1. Print out three copies of [the template](https://github.com/lauracowen/openliberty-mugrug/blob/main/pdfs/open-liberty-logo-mugrug-fpp-template.pdf).
 2. Add add 1/4" seam allowances around each section:
    - Copy 1: Section E and Section D
    - Copy 2: Section B and Section C
@@ -157,6 +157,6 @@ In case they're useful, here are some tutorials I used when finishing the mug ru
 
 ## Licence
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Liberty mug rug mini quilt pattern</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.lauracowen.co.uk/" property="cc:attributionName" rel="cc:attributionURL">Laura Cowen</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/lauracowen/openliberty-rugmug" rel="dct:source">https://github.com/lauracowen/openliberty-rugmug</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Liberty mug rug mini quilt pattern</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.lauracowen.co.uk/" property="cc:attributionName" rel="cc:attributionURL">Laura Cowen</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/lauracowen/openliberty-mugrug" rel="dct:source">https://github.com/lauracowen/openliberty-mugrug</a>.
 
 The Open Liberty logo, the design on which this mug rug mini quilt is based, is used under the [terms set out by IBM](https://github.com/OpenLiberty/logos/blob/main/LICENSE.adoc).
