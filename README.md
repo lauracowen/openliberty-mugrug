@@ -48,8 +48,8 @@ The [FPP template](https://github.com/lauracowen/openliberty-rugmug/blob/main/pd
 1. Print out three copies of [the template](https://github.com/lauracowen/openliberty-rugmug/blob/main/pdfs/open-liberty-logo-mugrug-fpp-template.pdf).
 2. Add add 1/4" seam allowances around each section:
    - Copy 1: Section E and Section D
-   - Copy 2: Section A and Section C
-   - Copy 3: Section B
+   - Copy 2: Section B and Section C
+   - Copy 3: Section A
   
      For example, in the following image, I'm adding a 1/4" seam allowance on to each of Sections D and E using a quilting ruler and pencil (Sections A, B, and C of this copy will be discarded):
   ![Adding 1/4" seam allowances on Sections D and E using a quilting ruler](images/add-seam-allowances.jpg)
