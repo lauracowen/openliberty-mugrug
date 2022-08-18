@@ -1,10 +1,10 @@
-# Open Liberty rug mug mini quilt pattern
+# Open Liberty mug rug mini quilt pattern
 
 This pattern uses Foundation Paper Piecing (FPP) which is a method of patchwork piecing that uses a paper template and requires a sewing machine.
 
-The finished size of the rug mug mini quilt when bound is approximately 11.25" x 8" (28.5cm x 20cm) (slightly smaller than A4):
+The finished size of the mug rug mini quilt when bound is approximately 11.25" x 8" (28.5cm x 20cm) (slightly smaller than A4):
 
-![Finished rug mug mini quilt.](images/finished-rugmug-small.jpg)
+![Finished mug rug mini quilt.](images/finished-mugrug-small.jpg)
 
 If you're confident using a sewing machine and you've done some basic patchwork and quilting but you've never done any FPP before, I would suggest doing an FPP tutorial then practising with a simple picture-type of pattern first. I've included some links to [tutorials that I used to learn FPP](#tutorials).
 
@@ -148,7 +148,7 @@ I practised making a picture by completing this [frog block, which you can buy o
 
 ### Quilting and binding
 
-In case they're useful, here are some tutorials I used when finishing the rug mug mini quilt:
+In case they're useful, here are some tutorials I used when finishing the mug rug mini quilt:
 
 * [Quilting a quilt](https://www.sewmotion.com/the_quilting.html)
 * [Binding a quilt](https://www.sewmotion.com/the_binding.html)
@@ -157,6 +157,6 @@ In case they're useful, here are some tutorials I used when finishing the rug mu
 
 ## Licence
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Liberty rug mug mini quilt pattern</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.lauracowen.co.uk/" property="cc:attributionName" rel="cc:attributionURL">Laura Cowen</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/lauracowen/openliberty-rugmug" rel="dct:source">https://github.com/lauracowen/openliberty-rugmug</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Liberty mug rug mini quilt pattern</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.lauracowen.co.uk/" property="cc:attributionName" rel="cc:attributionURL">Laura Cowen</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/lauracowen/openliberty-rugmug" rel="dct:source">https://github.com/lauracowen/openliberty-rugmug</a>.
 
-The Open Liberty logo, the design on which this rug mug mini quilt is based, is used under the [terms set out by IBM](https://github.com/OpenLiberty/logos/blob/main/LICENSE.adoc).
+The Open Liberty logo, the design on which this mug rug mini quilt is based, is used under the [terms set out by IBM](https://github.com/OpenLiberty/logos/blob/main/LICENSE.adoc).
