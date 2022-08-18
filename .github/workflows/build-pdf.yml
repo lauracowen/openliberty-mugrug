@@ -28,7 +28,7 @@ jobs:
               run: ls -lR
               # Check that the file has been built.
             - name: Renamed converted PDF
-              run: mv pdfs/README.pdf pdfs/open-liberty-rug-mug-mini-quilt-instructions.pdf
+              run: mv pdfs/README.pdf pdfs/open-liberty-mug-rug-mini-quilt-instructions.pdf
             - name: List all files
               run: ls -lR
               # Check that the file has been built.
@@ -36,6 +36,6 @@ jobs:
               run: |
                 git config user.name github-actions
                 git config user.email github-actions@github.com
-                git add pdfs/open-liberty-rug-mug-mini-quilt-instructions.pdf
+                git add pdfs/open-liberty-mug-rug-mini-quilt-instructions.pdf
                 git commit -m "generated PDF"
                 git push
